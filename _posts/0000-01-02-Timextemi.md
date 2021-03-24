@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+*This text is in italics*
 Use the left arrow to go back!
 N.B This is my first file i'm commiting 
